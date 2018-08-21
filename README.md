@@ -1,6 +1,6 @@
 # VExpandableView
-通过属性动画实现的底部展开菜单组件
-
+通过属性动画实现的底部展开菜单组件，如图：
+![Image text](https://github.com/CodeMAI/VExpandableView/blob/master/show.gif)
 
 用法：
 ```java
