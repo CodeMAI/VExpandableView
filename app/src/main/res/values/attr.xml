@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="VExpandableView">
+        <attr name="menu_width" format="reference|dimension"/>
+        <attr name="menu_margin" format="reference|dimension"/>
+        <attr name="menu_text_color" format="color" />
+        <attr name="menu_text_size" format="float" />
+    </declare-styleable>
+</resources>
